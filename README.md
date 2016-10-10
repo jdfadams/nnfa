@@ -9,6 +9,6 @@ The neural network itself is implemented in the class nnfa.
 
 There is a function called test. This function trains the neural network using randomly chosen points in the domain interval.
 
-There is a function called plotfn. It draws the graph of the target function in blue and the graph of what the neural network has learned in red. It saves the resulting bitmap.
+There is a function called plotfn. This function draws the graph of the target function in blue and the graph of what the neural network has learned in red and saves the resulting bitmap.
 
-See "Approximation by superpositions of a sigmoidal function" by G. Cybenko for the relevant mathematics. http://link.springer.com/article/10.1007/BF02551274.
+See "Approximation by superpositions of a sigmoidal function" by G. Cybenko (http://link.springer.com/article/10.1007/BF02551274) for the relevant mathematics.
