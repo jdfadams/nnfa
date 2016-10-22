@@ -1,6 +1,6 @@
 nnfa.cpp - This file contains the main function and all of my code.
 
-bitmap_image.hpp - This file allows manipulation of bitmap files. I am not the author, but it's use is allowed under the agreement https://opensource.org/licenses/cpl1.0.php.
+bitmap_image.hpp - This file allows manipulation of bitmap files. I am not the author, but it's use is allowed under the agreement https://opensource.org/licenses/cpl1.0.php. See https://github.com/ArashPartow/bitmap for more information.
 
 I compiled nnfa.cpp with g++ (Ubuntu 5.4.0-6ubuntu1~16.04.2) 5.4.0 20160609.
 
